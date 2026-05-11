@@ -5,7 +5,7 @@ html, body {
   margin: 0;
 }
 * {
-    cursor: url("/assets/cursor/heart_cursor_final.png") , auto;
+    cursor: url("assets/cursor/heart_cursor_final.png") , auto;
 }
 
 body {
